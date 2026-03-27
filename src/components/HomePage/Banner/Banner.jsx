@@ -6,7 +6,7 @@ const Banner = () => {
     return (
         <div className='container mx-auto'>
             <div
-                className="hero min-h-[60vh] bg-black rounded-2xl"
+                className="hero min-h-[60vh] bg-blue-950 rounded-2xl"
                 style={{
                     backgroundImage:
                         `url(${bannerBg})`,
